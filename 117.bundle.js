@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[117],{20117:(r,i,e)=>{e.r(i),e.d(i,{lightProxyPixelShader:()=>t});var a=e(75876);const s="lightProxyPixelShader",o="flat varying vec2 vLimits;flat varying highp uint vMask;void main(void) {if (gl_FragCoord.y<vLimits.x || gl_FragCoord.y>vLimits.y) {discard;}\ngl_FragColor=vec4(vMask,0,0,1);}\n";a.l.ShadersStore[s]||(a.l.ShadersStore[s]=o);const t={name:s,shader:o}}}]);
+//# sourceMappingURL=117.bundle.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[1828],{11828:(a,e,r)=>{r.r(e),r.d(e,{shadowMapFragmentSoftTransparentShadow:()=>d});var n=r(75876);const s="shadowMapFragmentSoftTransparentShadow",o="#if SM_SOFTTRANSPARENTSHADOW==1\nif ((bayerDither8(floor(mod(gl_FragCoord.xy,8.0))))/64.0>=softTransparentShadowSM.x*alpha) discard;\n#endif\n";n.l.IncludesShadersStore[s]||(n.l.IncludesShadersStore[s]=o);const d={name:s,shader:o}}}]);
+//# sourceMappingURL=1828.bundle.js.map

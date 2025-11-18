@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[8890],{8890:(e,t,r)=>{r.r(t),r.d(t,{oitBackBlendPixelShaderWGSL:()=>s});var a=r(75876);const n="oitBackBlendPixelShader",o="var uBackColor: texture_2d<f32>;@fragment\nfn main(input: FragmentInputs)->FragmentOutputs {fragmentOutputs.color=textureLoad(uBackColor,vec2i(fragmentInputs.position.xy),0);if (fragmentOutputs.color.a==0.0) {discard;}}\n";a.l.ShadersStoreWGSL[n]||(a.l.ShadersStoreWGSL[n]=o);const s={name:n,shader:o}}}]);
+//# sourceMappingURL=8890.bundle.js.map

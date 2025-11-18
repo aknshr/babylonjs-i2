@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[5991],{85991:(e,r,o)=>{o.r(r),o.d(r,{oitBackBlendPixelShader:()=>c});var a=o(75876);const l="oitBackBlendPixelShader",i="precision highp float;uniform sampler2D uBackColor;void main() {glFragColor=texelFetch(uBackColor,ivec2(gl_FragCoord.xy),0);if (glFragColor.a==0.0) { \ndiscard;}}";a.l.ShadersStore[l]||(a.l.ShadersStore[l]=i);const c={name:l,shader:i}}}]);
+//# sourceMappingURL=5991.bundle.js.map

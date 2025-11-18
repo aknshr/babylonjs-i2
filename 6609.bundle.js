@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[6609],{26609:(s,t,a)=>{a.r(t),a.d(t,{FlowGraphGLTFDataProvider:()=>o});var e=a(63683),r=a(41862);class o extends e.e{constructor(s){super();const t=s.glTF,a=t.animations?.map((s=>s._babylonAnimationGroup))||[];this.animationGroups=this.registerDataOutput("animationGroups",r.Vv,a);const e=t.nodes?.map((s=>s._babylonTransformNode))||[];this.nodes=this.registerDataOutput("nodes",r.Vv,e)}getClassName(){return"FlowGraphGLTFDataProvider"}}}}]);
+//# sourceMappingURL=6609.bundle.js.map

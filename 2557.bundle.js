@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[2557],{32557:(e,n,t)=>{t.r(n),t.d(n,{FlowGraphSceneReadyEventBlock:()=>r});var s=t(83612),c=t(72062);class r extends s.i{constructor(){super(...arguments),this.initPriority=-1,this.type="SceneReady"}_executeEvent(e,n){return this._execute(e),!0}_preparePendingTasks(e){}_cancelPendingTasks(e){}getClassName(){return"FlowGraphSceneReadyEventBlock"}}(0,c.Y5)("FlowGraphSceneReadyEventBlock",r)}}]);
+//# sourceMappingURL=2557.bundle.js.map

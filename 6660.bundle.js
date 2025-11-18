@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[6660],{76660:(e,r,n)=>{n.r(r),n.d(r,{rgbdDecodePixelShader:()=>t});var d=n(75876);n(86007);const a="rgbdDecodePixelShader",o="varying vec2 vUV;uniform sampler2D textureSampler;\n#include<helperFunctions>\n#define CUSTOM_FRAGMENT_DEFINITIONS\nvoid main(void) \n{gl_FragColor=vec4(fromRGBD(texture2D(textureSampler,vUV)),1.0);}";d.l.ShadersStore[a]||(d.l.ShadersStore[a]=o);const t={name:a,shader:o}}}]);
+//# sourceMappingURL=6660.bundle.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[8034],{48034:(o,e,r)=>{r.r(e),r.d(e,{oitFinalSimpleBlendPixelShader:()=>a});var l=r(75876);const i="oitFinalSimpleBlendPixelShader",n="precision highp float;uniform sampler2D uFrontColor;void main() {ivec2 fragCoord=ivec2(gl_FragCoord.xy);vec4 frontColor=texelFetch(uFrontColor,fragCoord,0);glFragColor=frontColor;}\n";l.l.ShadersStore[i]||(l.l.ShadersStore[i]=n);const a={name:i,shader:n}}}]);
+//# sourceMappingURL=8034.bundle.js.map

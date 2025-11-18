@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[4007],{54007:(a,e,t)=>{t.r(e),t.d(e,{FlowGraphPauseAnimationBlock:()=>o});var s=t(66272),i=t(41862),n=t(72062);class o extends s.w{constructor(a){super(a),this.animationToPause=this.registerDataInput("animationToPause",i.Vv)}_execute(a){this.animationToPause.getValue(a).pause(),this.out._activateSignal(a)}getClassName(){return"FlowGraphPauseAnimationBlock"}}(0,n.Y5)("FlowGraphPauseAnimationBlock",o)}}]);
+//# sourceMappingURL=4007.bundle.js.map

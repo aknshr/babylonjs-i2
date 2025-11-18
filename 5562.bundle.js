@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[5562],{35562:(s,e,n)=>{n.d(e,{KHR_mesh_quantization:()=>a});var t=n(96734);const i="KHR_mesh_quantization";class a{constructor(s){this.name=i,this.enabled=s.isExtensionUsed(i)}dispose(){}}(0,t.Hg)(i),(0,t.Ye)(i,!0,(s=>new a(s)))}}]);
+//# sourceMappingURL=5562.bundle.js.map

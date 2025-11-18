@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dev_inspector_v2=self.webpackChunk_dev_inspector_v2||[]).push([[3434],{63434:(e,r,a)=>{a.r(r),a.d(r,{passPixelShader:()=>d});var s=a(75876);const n="passPixelShader",t="varying vec2 vUV;uniform sampler2D textureSampler;\n#define CUSTOM_FRAGMENT_DEFINITIONS\nvoid main(void) \n{gl_FragColor=texture2D(textureSampler,vUV);}";s.l.ShadersStore[n]||(s.l.ShadersStore[n]=t);const d={name:n,shader:t}}}]);
+//# sourceMappingURL=3434.bundle.js.map
