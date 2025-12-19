@@ -1,0 +1,8 @@
+import type { ServiceDefinition } from "../../../modularity/serviceDefinition";
+import type { ISettingsContext } from "../../../services/settingsContext";
+import type { IPropertiesService } from "./propertiesService";
+export declare const ControlPropertiesSectionIdentity: unique symbol;
+export declare const CollisionPropertiesSectionIdentity: unique symbol;
+export declare const LimitsPropertiesSectionIdentity: unique symbol;
+export declare const BehaviorsPropertiesSectionIdentity: unique symbol;
+export declare const CameraPropertiesServiceDefinition: ServiceDefinition<[], [IPropertiesService, ISettingsContext]>;
