@@ -1,9 +1,0 @@
-import type { IReadonlyObservable } from "core/index";
-/**
- * Provides an observable that fires when a specified function/property is called/set.
- * @param type The type of the interceptor, either "function" or "property".
- * @param target The object containing the function/property to intercept.
- * @param propertyKey The key of the function/property to intercept.
- * @returns An observable that fires when the function/property is called/set.
- */
-export declare function useInterceptObservable<T extends object>(type: "function" | "property", target: T | null | undefined, propertyKey: keyof T): IReadonlyObservable<void>;
